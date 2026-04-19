@@ -48,3 +48,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [ ] Filter doctors by specialty
 - [ ] Add a feature to search for doctors by name
 - [ ] Save environments variables on In
+
+
+## Copyright (c) 2026 Your Name. All rights reserved.
+
+This source code is provided for viewing purposes only.
+No permission is granted to copy, modify, distribute, or use this code without explicit written permission.
