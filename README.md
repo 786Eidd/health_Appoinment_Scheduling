@@ -1,6 +1,6 @@
-# NextJS Healthcare App
+# Nealth_Appoinment_Scheduling App
 
-> A NextJS app I've built to learn more about NextJS and React.
+> A Nealth_Appoinment_Scheduling App develop in Next.JS.
 
 - [Description 📃](#description-)
 - [Getting Started 💻](#getting-started-)
